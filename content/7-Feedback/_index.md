@@ -6,42 +6,27 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy verbatim** for your report, including this warning.
-{{% /notice %}}
-
-> Here, you can freely share your personal opinions about your experience participating in the First Cloud Journey program. This will help the FCJ team improve any shortcomings based on the following aspects:
 
 ### Overall Evaluation
 
-**1. Working Environment**  
-The working environment is very friendly and open. FCJ members are always willing to help whenever I encounter difficulties, even outside working hours. The workspace is tidy and comfortable, helping me focus better. However, I think it would be nice to have more social gatherings or team bonding activities to strengthen relationships.
+**1. Working Environment** The working environment is very friendly and open. FCJ members are always ready to support me whenever I face difficulties, even outside of office hours. The workspace is tidy and comfortable, which helps me focus better. However, I think the office should consider adding more individual power outlets instead of using power strips in series, which seems slightly unsafe.
 
-**2. Support from Mentor / Team Admin**  
-The mentor provides very detailed guidance, explains clearly when I don’t understand, and always encourages me to ask questions. The admin team supports administrative tasks, provides necessary documents, and creates favorable conditions for me to work effectively. I especially appreciate that the mentor allows me to try and solve problems myself instead of just giving the answer.
+**2. Mentor / Team Admin Support** Mentors provide very detailed guidance, explaining clearly when I don't understand and always encouraging interaction. The team admin supports administrative procedures and documentation, creating favorable conditions for my work.
 
-**3. Relevance of Work to Academic Major**  
-The tasks I was assigned align well with the knowledge I learned at university, while also introducing me to new areas I had never encountered before. This allowed me to both strengthen my foundational knowledge and gain practical skills.
+**3. Alignment Between Work and Major** The assigned tasks align well with the knowledge I gained at university. Since I am aiming to become a Backend Developer, being assigned tasks related to DevOps (a crucial supplementary skill currently) has allowed me to both consolidate my foundation and learn practical skills.
 
-**4. Learning & Skill Development Opportunities**  
-During the internship, I learned many new skills such as using project management tools, teamwork skills, and professional communication in a corporate environment. The mentor also shared valuable real-world experiences that helped me better plan my career path.
+**4. Learning Opportunities & Skill Development** During the internship, I have learned many new skills such as using project management tools, teamwork, and professional communication within a corporate environment. The events also shared many practical experiences that helped me better define my career path.
 
-**5. Company Culture & Team Spirit**  
-The company culture is very positive: everyone respects each other, works seriously but still keeps things enjoyable. When there are urgent projects, everyone works together and supports one another regardless of their position. This made me feel like a real part of the team, even as an intern.
+**5. Culture & Team Spirit** The company culture is very positive: everyone respects each other, working seriously yet maintaining a cheerful atmosphere. When there are urgent projects, everyone strives together and supports one another regardless of their position. This makes me feel like part of a collective, even as an intern.
 
-**6. Internship Policies / Benefits**  
-The company provides an internship allowance and offers flexible working hours when needed. In addition, having the opportunity to join internal training sessions is a big plus.
+**6. Policies / Benefits for Interns** The company provides support and allows for flexible scheduling when necessary. However, if possible, I hope the company could support access to some advanced, paid AWS tools.
 
 ---
 
-### Additional Questions
-- What did you find **most satisfying** during your internship?  
-- What do you think the company **should improve** for future interns?  
-- If recommending to a friend, would you **suggest they intern here**? Why or why not?  
+### Other Questions
 
----
+* **What are you most satisfied with during your internship?** The enthusiastic support from my Mentors and the opportunity to gain hands-on experience with real-world Cloud services (AWS, EC2, S3, Terraform, etc.) rather than just studying theory. A clear testament to this is the successful completion of the group workshop utilizing multiple AWS services.
 
-### Suggestions & Expectations
-- Do you have any suggestions to improve the internship experience?  
-- Would you like to continue this program in the future?  
-- Any other comments (free sharing):
+* **What do you think the company should improve for future interns?** Provide support or credits for paid AWS services for interns to explore.
+
+* **If you were to recommend this internship to a friend, would you? Why?** Always yes; this is a great opportunity for friends to gain direct access to and practical experience with AWS services.
