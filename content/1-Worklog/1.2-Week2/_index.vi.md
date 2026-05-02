@@ -6,11 +6,9 @@ chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-
-
 ### Mục tiêu tuần 2:
 
-* Tiếp tục với VPC ,EC2.
+* Tiếp tục với VPC và EC2.
 * Cách sử dụng AWS CLI.
 
 ### Các công việc cần triển khai trong tuần này:
@@ -24,6 +22,6 @@ pre: " <b> 1.2. </b> "
 
 * Viết script triển khai nhanh cụm VPC và script dọn dẹp (xóa) tài nguyên tương ứng.
 
-* Deploy thành công app Nodejs trên EC2 và hosting web tĩnh trên S3 bằng cả Console lẫn Script.
+* Deploy thành công app Node.js trên EC2 và hosting web tĩnh trên S3 bằng cả Console lẫn Script.
 
 

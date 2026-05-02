@@ -13,7 +13,7 @@ pre: " <b> 1.1. </b> "
 
 ### Tasks to be implemented this week:
 
-| Day | Task | Start Date | Completion Date | Documentation |
+| Day | Tasks | Start Date | Completion Date | Documentation |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
 | Mon | - Met with the mentors and the FCJ team <br> - Read and noted the regulations and rules at the internship unit <br> - Watched videos on AWS Infrastructure <br> - **Practice:** <br>&emsp; - Created an AWS Free Tier account <br>&emsp; - Set up simple AWS Budgets <br>&emsp; - Created MFA device for the root account | 03/09/2026 | 03/09/2026 | |
 | Wed | - Continued watching instructional videos on AWS (Users, Budgets) <br> - **Practice:** <br>&emsp; - Created IAM User Groups and Users <br>&emsp; - Set up various AWS Budgets | 03/11/2026 | 03/11/2026 | |

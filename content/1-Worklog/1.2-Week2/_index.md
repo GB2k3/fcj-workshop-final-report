@@ -6,8 +6,6 @@ chapter: false
 pre: " <b> 1.2. </b> "
 ---
 
-
-
 ## Week 2 Objectives:
 
 * Continue working with VPC and EC2.

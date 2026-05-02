@@ -14,3 +14,19 @@ Sửa đổi tại ./content/_index.vi.md:
 - Email: trangiabao16082003@gmail.com
 - Ngành: Kỹ thuật phần mềm (|| Công nghệ thông tin)
 Thay ./static/images/avatar.png: ảnh chính mình
+Sửa đổi tại ./content/1-Worklog/_index.md:
+* Todo Cần viết lại
+Sửa đổi tại ./content/1-Worklog/_index.vi.md:
+* Todo Cần viết lại
+Sửa đổi tại ./content/1-Worklog/1.1-Week1/_index.md:
+* Kiểm tra công việc
+* Kiểm tra lại ngày bạn tham gia (điểm danh)
+Sửa đổi tại ./content/1-Worklog/1.1-Week1/_index.vi.md:
+* Kiểm tra công việc
+* Kiểm tra lại ngày bạn tham gia (điểm danh)
+Sửa đổi tại ./content/1-Worklog/1.2-Week2/_index.md:
+* Kiểm tra công việc
+* Kiểm tra lại ngày bạn tham gia (điểm danh)
+Sửa đổi tại ./content/1-Worklog/1.2-Week2/_index.vi.md:
+* Kiểm tra công việc
+* Kiểm tra lại ngày bạn tham gia (điểm danh)

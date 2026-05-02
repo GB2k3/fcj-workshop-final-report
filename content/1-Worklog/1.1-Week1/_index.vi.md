@@ -1,17 +1,15 @@
 ---
 title: "Worklog Tuần 1"
-date: 2024-01-01
+date: 2026-03-09
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
 
-
-
 ### Mục tiêu tuần 1:
 
-* Làm quen nhóm, nghe phổ biến về chương trình thực tập ,
-* Xem video hướng dẫn cơ bản về các dịch vụ  aws.
+* Làm quen nhóm, nghe phổ biến về chương trình thực tập.
+* Xem video hướng dẫn cơ bản về các dịch vụ aws.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
@@ -33,6 +31,3 @@ pre: " <b> 1.1. </b> "
 * Thiết lập được thiết bị MFA cho tài khoản 
 
 * Thiết lập được AWS Budgets cho tài khoản
-
-
-
