@@ -1,14 +1,10 @@
 ---
 title: "Self-Assessment"
 date: 2026-05-03
-weight: 6
+weight: 5
 chapter: false
-pre: " <b> 6. </b> "
+pre: " <b> 5. </b> "
 ---
-
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
 
 During my internship at **Amazon Web Services Vietnam Company Limited** from **March 9 to May 2**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world cloud computing environment.  
 I participated in a group project involving an application registration and log monitoring system, where I was responsible for developing the application registration component and integrating it with AWS services such as DynamoDB, Lambda, SNS, Cognito, and IAM. Through this, I improved my skills in cloud development, system design, debugging, and basic DevOps practices using Terraform and container services like ECS and ECR.  
