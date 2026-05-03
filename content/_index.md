@@ -17,11 +17,11 @@ date: 2026-05-03
 
 &emsp; **Major:** Information Technology
 
-&emsp; **Class:** AWS090326
+&emsp; **Class:** DCT1219
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
-&emsp; **Internship Position:** FCJ Cloud Intern
+&emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 
 &emsp; **Internship Duration:** From 03/09/2026 to 05/02/2026
 
