@@ -57,7 +57,8 @@ Dán dữ liệu JSON vào phần Event JSON.
 ### Mô tả luồng xử lý
 
 - Message được gửi đến SQS  
-- Lambda Processor được kích hoạt  
+- Lambda Processor kéo message xử lí và xóa message đó trong sqs  
+- Notification được gửi nếu như có log error
 - Dữ liệu được xử lý và:
   - Lưu vào S3  
   - Lưu vào DynamoDB  

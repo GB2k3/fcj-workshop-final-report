@@ -58,7 +58,8 @@ Paste the JSON data into the Event JSON section.
 ### Workflow Description
 
 - Messages are sent to SQS  
-- Lambda Processor is triggered  
+- Lambda Processor retrieves the message, processes it, and deletes it in the sqs.
+- Notifications are sent if there is an error log.
 - Data is processed and:
   - Stored in S3  
   - Stored in DynamoDB  
