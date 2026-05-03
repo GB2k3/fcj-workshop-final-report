@@ -17,7 +17,7 @@ pre : " <b> 4.7. </b> "
 5. Wait for the resources to be deleted.
 
 #### Quick note on S3 Buckets
-- If your bucket still contains log data, Terraform will notify you with an error because AWS does not allow the deletion of non-empty buckets. In that case:
+- If your bucket still contains log data, Terraform will display an error because AWS does not allow the deletion of non-empty buckets. In that case:
 1. In the console, go to the **S3 console** (by typing on search bar *S3*).
 2. Select the log bucket and click empty.
 3. In the confirmation screen, type *permanently delete*.
