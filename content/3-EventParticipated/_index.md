@@ -8,7 +8,7 @@ pre: " <b> 3. </b> "
 
 During my internship, I participated in one event. This event was a memorable experience that provided new, interesting, and useful knowledge, along with gifts and wonderful moments.
 
-### [Event 1](4.1-Event1/)  
+### [Event 1](3.1-Event1/)  
 &emsp;**Event Name:** AWS First Cloud AI Journey Community Day 2026
 
 &emsp;**Date & Time:** 09:00, March 21, 2026 
