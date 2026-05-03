@@ -20,8 +20,6 @@ Verify the components in the log ingestion pipeline from CloudWatch to ensure th
  
 ![Resource check](/images/4-Workshop/4.4--log-ingestion/4.4.1--resource-check/resource2.png) 
 
-Processor, and SQS.*
-
 ### Description
 
 The system has been successfully configured with Lambda Shipper to receive logs from CloudWatch and forward them to SQS. Once messages are placed in SQS, the Lambda Processor observes it and continue processing the data within the pipeline.
