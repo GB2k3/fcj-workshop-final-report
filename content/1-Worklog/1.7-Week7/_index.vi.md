@@ -1,18 +1,20 @@
 ---
 title: "Worklog Tuần 7"
 date: 20-04-2026
+weight: 1
+chapter: false
+pre: " <b> 1.7. </b> "
 ---
 ### Mục tiêu tuần 7:
 
 * Tiếp tục hoàn thành project.
-* Tìm hiểu một số công cụ có thể giúp ích cho project.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
 | 2   | - Kiểm tra và sửa lỗi <br>                                                                                           | 20/04/2026   | 20/04/2026      |
-| 4   | - Tìm hiểu các dịch vụ có thể nâng cấp project (Terraform, SNS) <br> | 22/04/2026   | 22/04/2026      | [<https://cloudjourney.awsstudygroup.com/>](https://developer.hashicorp.com/terraform) |
-| 4   | - Tải về Terraform và nâng cấp project <br>                  | 22/04/2026   | 22/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
+| 4   | - Tìếp tục hoàn thành project <br> | 22/04/2026   | 22/04/2026      | [<https://cloudjourney.awsstudygroup.com/>]) |
+| 4   | - Tiếp tục hoàn thành project <br>                  | 22/04/2026   | 22/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Kết quả đạt được tuần 7:
