@@ -17,7 +17,7 @@ date: 2026-05-03
 
 &emsp; **Major:** Information Technology
 
-&emsp; **Class:** DCT1219
+&emsp; **Class:** AWS090326
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
