@@ -5,10 +5,6 @@ weight: 1
 chapter: false
 pre: " <b> 1.3. </b> "
 ---
----
-title: "Week 3 Report"
-date: 2026-03-31
----
 
 ## Week 3 Objectives:
 
