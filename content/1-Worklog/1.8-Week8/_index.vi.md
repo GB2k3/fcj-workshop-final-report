@@ -1,6 +1,9 @@
 ---
 title: "Worklog Tuần 8"
-date: 02-05-2026
+date: 2026-05-02
+weight: 1
+chapter: false
+pre: " <b> 1.6. </b> "
 ---
 
 
