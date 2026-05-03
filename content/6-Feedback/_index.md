@@ -1,30 +1,29 @@
 ---
 title: "Sharing and Feedback"
 date: 2026-05-03
-weight: 6
-chapter: false
-pre: " <b> 6. </b> "
 ---
-
 
 ### Overall Evaluation
 
-**1. Working Environment** The working environment is very friendly and open. FCJ members are always ready to support me whenever I face difficulties, even outside of office hours. The workspace is tidy and comfortable, which helps me focus better. However, I think the office should consider adding more individual power outlets instead of using power strips in series, which seems slightly unsafe.
+**1. Working Environment**  
+- Working environment is comfortable and open.
+- The mentor always supports us wherever we go.
 
-**2. Mentor / Team Admin Support** Mentors provide very detailed guidance, explaining clearly when I don't understand and always encouraging interaction. The team admin supports administrative procedures and documentation, creating favorable conditions for my work.
+**2. Support from Mentor / Team Admin**  
+- The mentor provides very detailed guidance, explains clearly when I don’t understand, to help us know about their services.
+- They are friendly and humorous.
 
-**3. Alignment Between Work and Major** The assigned tasks align well with the knowledge I gained at university. Since I am aiming to become a Backend Developer, being assigned tasks related to DevOps (a crucial supplementary skill currently) has allowed me to both consolidate my foundation and learn practical skills.
+**3. Relevance of Work to Academic Major**  
+- The tasks I was assigned align well with the knowledge I learned at university.
+- Besides, I do know more a lot about other new technology and trend to upgrade the project.
 
-**4. Learning Opportunities & Skill Development** During the internship, I have learned many new skills such as using project management tools, teamwork, and professional communication within a corporate environment. The events also shared many practical experiences that helped me better define my career path.
+**4. Learning & Skill Development Opportunities**  
+- During the internship, I learned many new basic skills, not just the skills to use techonology or other tools to make the project. This helped me a lot and improved myself in terms of basic skills.
 
-**5. Culture & Team Spirit** The company culture is very positive: everyone respects each other, working seriously yet maintaining a cheerful atmosphere. When there are urgent projects, everyone strives together and supports one another regardless of their position. This makes me feel like part of a collective, even as an intern.
+**5. Company Culture & Team Spirit**  
+- Everyone always work together, and not be distracted by other stuffs.
 
-**6. Policies / Benefits for Interns** The company provides support and allows for flexible scheduling when necessary. However, if possible, I hope the company could support access to some advanced, paid AWS tools.
-
-### Other Questions
-
-* **What are you most satisfied with during your internship?** The enthusiastic support from my Mentors and the opportunity to gain hands-on experience with real-world Cloud services (AWS, EC2, S3, Terraform, etc.) rather than just studying theory. A clear testament to this is the successful completion of the group workshop utilizing multiple AWS services.
-
-* **What do you think the company should improve for future interns?** Provide support or credits for paid AWS services for interns to explore.
-
-* **If you were to recommend this internship to a friend, would you? Why?** Always yes; this is a great opportunity for friends to gain direct access to and practical experience with AWS services.
+### Suggestions & Expectations
+- More event in the internship.
+- Internship policy needs improving (for instance: about salary and help).
+- My expectations: continue working with mentor after internship. It is an honor and pleasure to learn and improve myself more with the help of the mentor.
