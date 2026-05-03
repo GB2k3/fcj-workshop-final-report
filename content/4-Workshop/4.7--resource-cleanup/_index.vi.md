@@ -17,7 +17,9 @@ pre: " <b> 4.7. </b> "
 6. Chờ cho quá trình dọn dẹp hoàn tất.
 
 #### Lưu ý về S3 Bucket
-- Nếu S3 bucket của bạn còn chứa dữ liệu (log), Terraform sẽ báo lỗi trong lúc dọn dẹp vì AWS không cho xoá bucket không rỗng. Trong trường hợp này:
+- Nếu S3 bucket của bạn còn chứa dữ liệu (log), Terraform sẽ báo lỗi trong lúc dọn dẹp vì AWS không cho xoá bucket không rỗng như hình minh hoạ.
+<img width="1011" height="301" alt="image" src="https://github.com/user-attachments/assets/9f2e11c2-f5fd-49f0-aa4c-34276f8016c2" />
+- Trong trường hợp này:
 1. Tại AWS Management Console, bạn điều hướng đến **S3** (gõ S3 vào ô Search), chọn **General purpose bucket**.
 2. Chọn bucket chứa log và nhấn empty.
 3. Ở màn hình xác nhận, gõ *permanently delete*.
