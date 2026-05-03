@@ -6,7 +6,7 @@ chapter : false
 pre : " <b> 4.7. </b> "
 ---
 ### Clean Up Process
-- CLeaning up resources after completing the workshop is important to optimize costs and keep your AWS environment organized. Resources such as EC2 instances, RDS, and others will continue to charge if they are not removed.
+- Cleaning up resources after completing the workshop is important to optimize costs and keep your AWS environment organized. Resources such as EC2 instances, RDS, and others will continue to charge if they are not removed.
 
 #### Clean up
 - Since the entire infrastructure was deployed using Terraform, the clean up process is pretty straightforward.
