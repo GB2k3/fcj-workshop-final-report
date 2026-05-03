@@ -6,19 +6,19 @@ chapter: false
 pre: " <b> 4.7. </b> "
 ---
 ### 4.7 Thu hồi tài nguyên
-- Việc dọn dẹp tài nguyên sau khi hoàn thành workshop là rất quan trọng nều bạn không muốn bị phát sinh thêm chi phí sử dụng. Các hạ tầng như EC2, VPC và RDS vẫn sẽ tính phí nếu bạn không sử dụng chúng.
+- Việc dọn dẹp tài nguyên sau khi hoàn thành workshop là rất quan trọng nếu bạn không muốn bị phát sinh thêm chi phí sử dụng. Các hạ tầng như EC2, VPC và RDS vẫn sẽ tính phí nếu bạn không sử dụng chúng.
 
 #### Dọn dẹp
 - Vì toàn bộ hạ tầng được triển khai bằng Terraform, nên việc dọn dẹp chúng là rất đơn giản và an toàn.
 1. Mở Terminal (bằng Command Prompt, Windows PowerShell hoặc VS Code) tại thư mục gốc chứa các file cấu hình của dự án (có phần mở rộng là .tf).
 2. Gõ lệnh sau: *terraform destroy*.
 4. Terraform sẽ liệt kê danh sách các tài nguyên sẽ bị xoá.
-5. Sau khi liệt kê, Terraform sẽ yêu cầu bạn xác nhận có muốn xoá hay không. Lúc này bạn gõ yes.
+5. Sau khi liệt kê, Terraform sẽ yêu cầu bạn xác nhận có muốn xoá hay không. Lúc này bạn gõ *yes*.
 6. Chờ cho quá trình dọn dẹp hoàn tất.
 
 #### Lưu ý về S3 Bucket
 - Nếu S3 bucket của bạn còn chứa dữ liệu (log), Terraform sẽ báo lỗi trong lúc dọn dẹp vì AWS không cho xoá bucket không rỗng. Trong trường hợp này:
-1. Điều hướng đến **S3**, chọn **General purpose bucket**.
+1. Tại AWS Management Console, bạn điều hướng đến **S3** (gõ S3 vào ô Search), chọn **General purpose bucket**.
 2. Chọn bucket chứa log và nhấn empty.
 3. Ở màn hình xác nhận, gõ *permanently delete*.
 4. Sau khi empty thành công, quay lại terminal và chạy lại lệnh *terraform destroy*.
