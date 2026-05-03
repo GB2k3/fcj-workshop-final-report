@@ -24,7 +24,6 @@ Sau khi cấu hình hoàn tất, tiến hành tạo log để mô phỏng dữ l
 2. Lambda Shipper tiếp nhận và xử lý log  
 
 ![Shipper run](/images/4-Workshop/4.4--log-ingestion/4.4.2--shipper-test/shipper.png)  
-*Hình 4.4.2-2: Lambda Shipper xử lý log từ CloudWatch.*
 
 
 3. Message được đẩy vào SQS để tiếp tục xử lý  
