@@ -15,7 +15,7 @@ date: 03-05-2026
 
 &emsp; **Ngành:** Công nghệ thông tin
 
-&emsp; **Lớp:** AWS090326
+&emsp; **Lớp:** DCT1219
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Vietnam
 
