@@ -1,6 +1,9 @@
 ---
 title: "Self-Assessment"
 date: 2026-05-02
+weight: 5
+chapter: false
+pre: " <b> 5. </b> "
 ---
 
 During my internship at **Amazon Web Services, Inc.** from **March 9th, 2026** to **May 2nd, 2026**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
