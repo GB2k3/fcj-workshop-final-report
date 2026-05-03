@@ -1,6 +1,9 @@
 ---
 title: "Worklog"
 date: 2026-05-02
+weight: 1
+chapter: false
+pre: " <b> 1. </b> "
 ---
 
 **Tuần 1:** [Làm quen với các dịch vụ của AWS](1.1-week1/)
