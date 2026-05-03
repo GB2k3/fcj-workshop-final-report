@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 3"
-date: 2024-01-01
+date: 2026-03-24
 weight: 1
 chapter: false
 pre: " <b> 1.3. </b> "
@@ -9,7 +9,7 @@ pre: " <b> 1.3. </b> "
 
 ### Mục tiêu tuần 3:
 
-* Tiểp tục với EC2,S3.
+* Tiểp tục với EC2, S3.
 * Tìm hiểu về Terraform.
 
 ### Các công việc cần triển khai trong tuần này:
