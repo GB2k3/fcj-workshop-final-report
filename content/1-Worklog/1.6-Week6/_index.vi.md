@@ -1,20 +1,31 @@
 ---
-title: "Worklog Tuần 7"
-date: 20-04-2026
+title: "Nhật Ký Công Việc Tuần 6"
+date: 2026-04-13
+weight: 1
+chapter: false
+pre: " <b> 1.6. </b> "
 ---
-### Mục tiêu tuần 7:
 
-* Tiếp tục hoàn thành project.
-* Tìm hiểu một số công cụ có thể giúp ích cho project.
+### Mục tiêu Tuần 6:
 
-### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | - Kiểm tra và sửa lỗi <br>                                                                                           | 20/04/2026   | 20/04/2026      |
-| 4   | - Tìm hiểu các dịch vụ có thể nâng cấp project (Terraform, SNS) <br> | 22/04/2026   | 22/04/2026      | [<https://cloudjourney.awsstudygroup.com/>](https://developer.hashicorp.com/terraform) |
-| 4   | - Tải về Terraform và nâng cấp project <br>                  | 22/04/2026   | 22/04/2026      | <https://cloudjourney.awsstudygroup.com/> |
+* Tiếp tục phát triển hệ thống đăng ký ứng dụng  
+* Áp dụng Terraform để triển khai hạ tầng AWS  
+* Tích hợp dịch vụ xác thực vào hệ thống  
 
+### Các công việc thực hiện trong tuần:
+| Ngày | Công việc                                                                                                      | Ngày bắt đầu | Ngày hoàn thành | Tài liệu tham khảo |
+| ---- | -------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ------------------ |
+| 2    | - Tiếp tục triển khai chức năng đăng ký ứng dụng <br> - Cải thiện logic backend                               | 13/04/2026   | 13/04/2026      |                    |
+| 5    | - Nghiên cứu và triển khai Cognito để xác thực người dùng <br> - Tích hợp Cognito User Pool vào hệ thống      | 16/04/2026   | 16/04/2026      |                    |
 
-### Kết quả đạt được tuần 7:
-* Đã hoàn thiện gần xong project, kiểm tra và sửa lỗi sơ bộ.
+### Kết quả đạt được trong Tuần 6:
 
+* Sử dụng thành công Terraform để triển khai và quản lý các dịch vụ AWS cần thiết cho hệ thống đăng ký ứng dụng.
+
+* Xây dựng và đẩy Docker image lên Amazon ECR, sau đó triển khai ứng dụng bằng Amazon ECS.
+
+* Tích hợp Amazon Cognito vào hệ thống để xác thực người dùng và quản lý user pool.
+
+* Cập nhật logic backend để hoạt động tương thích với luồng xác thực của Cognito và đảm bảo hệ thống vận hành đúng sau khi tích hợp.
+
+* Hiểu rõ hơn về cách các dịch vụ AWS (ECS, ECR, Cognito, Terraform) tương tác với nhau trong môi trường dự án thực tế.
