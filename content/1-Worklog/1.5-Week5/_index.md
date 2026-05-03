@@ -1,13 +1,10 @@
 ---
 title: "Week 5 Worklog"
-date: 2024-01-01
+date: 2026-04-07
 weight: 1
 chapter: false
 pre: " <b> 1.5. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
 ### Week 5 Objectives:
 
@@ -18,8 +15,8 @@ pre: " <b> 1.5. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                          | Start Date | Completion Date | Reference Material |
 | --- | --------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------ |
-| 2   | - Work remotely due to company event <br> - Learn basic concepts of Terraform                 | 04/07/2026 | 04/07/2026      |                    |
-| 3   | - Implement assigned task: build application for user registration (local development phase) | 04/08/2026 | 04/08/2026      |                    |
+| 3   | - Work remotely due to company event <br> - Learn basic concepts of Terraform                 | 04/07/2026 | 04/07/2026      |                    |
+| 4   | - Implement assigned task: build application for user registration (local development phase) | 04/08/2026 | 04/08/2026      |                    |
 
 ### Week 5 Achievements:
 
