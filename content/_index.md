@@ -1,38 +1,37 @@
 ---
 title: "Internship Report"
 date: 2026-05-03
-weight: 1
-chapter: false
 ---
 
+    
 # Internship Report
 
 ### Student Information:
-&emsp; **Full Name:** Tran Gia Bao
+&emsp; **Full Name:** Tiet Gia Bao
 
-&emsp; **Phone Number:** 0386152395 
+&emsp; **Phone Number:** 0961236351 
 
-&emsp; **Email:** trangiabao16082003@gmail.com
+&emsp; **Email:** tgiabao1410@gmail.com
 
 &emsp; **University:** Sai Gon University
 
-&emsp; **Major:** Software Engineer
+&emsp; **Major:** Information Technology
 
-&emsp; **Class:** AWS032026
+&emsp; **Class:** DCT1219
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
 &emsp; **Internship Position:** FCJ Cloud Intern
 
-&emsp; **Internship Duration:** From 09/03/2026 to 02/05/2026
+&emsp; **Internship Duration:** From 03/09/2026 to 05/02/2026
 
-![Your profile picture](/images/avatar.png)
+<img width="150" height="200" alt="20250717_110633" src="https://github.com/user-attachments/assets/fe1f0182-2495-4ab0-a0dd-5c19b65bbf07" />
 
 ### Report Content
 
 1.  [Worklog](1-Worklog/)
 2.  [Proposal](2-Proposal/)
-3.  [Events Participated](3-EventParticipated/)
-4.  [Workshop](4-Workshop/)
-5.  [Self-evaluation](5-Self-evaluation/)
-6.  [Sharing and Feedback](6-Feedback/)
+3.  [Events Participated](4-EventParticipated/)
+4.  [Workshop](5-Workshop/)
+5.  [Self-evaluation](6-Self-evaluation/)
+6.  [Sharing and Feedback](7-Feedback/)
