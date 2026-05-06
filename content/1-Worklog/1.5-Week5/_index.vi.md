@@ -1,5 +1,5 @@
 ---
-title: "Nhật Ký Công Việc Tuần 5"
+title: "Worklog Tuần 5"
 date: 2026-04-07
 weight: 1
 chapter: false
